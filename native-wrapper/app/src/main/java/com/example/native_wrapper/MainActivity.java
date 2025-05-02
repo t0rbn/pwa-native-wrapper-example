@@ -27,6 +27,6 @@ public class MainActivity extends AppCompatActivity {
         WebView myWebView = findViewById(R.id.webview);
 //        myWebView.getSettings().setTextZoom(75);
         myWebView.getSettings().setJavaScriptEnabled(true);
-        myWebView.loadUrl("192.168.0.103:3000");
+        myWebView.loadUrl("https://t0rbn.github.io/pwa-native-wrapper-example/pwa/index.html");
     }
 }
