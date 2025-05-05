@@ -1,7 +1,7 @@
 {
     "name": "pwa native wrapper example",
     "short_name": "pwa example",
-    "start_url": "https://t0rbn.github.io/pwa-native-wrapper-example/pwa/",
+    "start_url": "https://t0rbn.github.io/pwa-native-wrapper-example/pwa/index.html",
     "display": "standalone",
     "background_color": "#FFFFFF",
     "theme_color": "#FFC82E",
